@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/sayantan1821/Monster-Rolodex/static/css/main.9200e7c2.chunk.css",
+    "main.js": "/sayantan1821/Monster-Rolodex/static/js/main.22a23546.chunk.js",
+    "main.js.map": "/sayantan1821/Monster-Rolodex/static/js/main.22a23546.chunk.js.map",
+    "runtime-main.js": "/sayantan1821/Monster-Rolodex/static/js/runtime-main.60910cbc.js",
+    "runtime-main.js.map": "/sayantan1821/Monster-Rolodex/static/js/runtime-main.60910cbc.js.map",
+    "static/js/2.945e67c0.chunk.js": "/sayantan1821/Monster-Rolodex/static/js/2.945e67c0.chunk.js",
+    "static/js/2.945e67c0.chunk.js.map": "/sayantan1821/Monster-Rolodex/static/js/2.945e67c0.chunk.js.map",
+    "static/js/3.0dc7dec8.chunk.js": "/sayantan1821/Monster-Rolodex/static/js/3.0dc7dec8.chunk.js",
+    "static/js/3.0dc7dec8.chunk.js.map": "/sayantan1821/Monster-Rolodex/static/js/3.0dc7dec8.chunk.js.map",
+    "index.html": "/sayantan1821/Monster-Rolodex/index.html",
+    "static/css/main.9200e7c2.chunk.css.map": "/sayantan1821/Monster-Rolodex/static/css/main.9200e7c2.chunk.css.map",
+    "static/js/2.945e67c0.chunk.js.LICENSE.txt": "/sayantan1821/Monster-Rolodex/static/js/2.945e67c0.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.60910cbc.js",
+    "static/js/2.945e67c0.chunk.js",
+    "static/css/main.9200e7c2.chunk.css",
+    "static/js/main.22a23546.chunk.js"
+  ]
+}
